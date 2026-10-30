@@ -1,0 +1,6 @@
+{
+  "name": "TurboShield VPN",
+  "description": "High-speed VPN with connection accelerator, smart DNS routing, MTU optimization, and military-grade encryption protocols.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

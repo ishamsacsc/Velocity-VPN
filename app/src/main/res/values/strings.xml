@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TurboShield</string>
+    <string name="vpn_channel_name">TurboShield VPN Service</string>
+    <string name="vpn_channel_desc">Active VPN status and speed telemetry</string>
+</resources>
